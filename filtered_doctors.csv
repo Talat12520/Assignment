@@ -1,0 +1,3 @@
+NPI,State,Login Time,Logout Time,Usage Time (mins),Region,Speciality,Count of Survey Attempts
+1000000000,NY,2025-03-08 06:09:00,2025-03-08 06:28:00,19,Northeast,Cardiology,3
+1000000736,TX,2025-03-08 06:09:00,2025-03-08 07:01:00,52,Northeast,General Practice,6
