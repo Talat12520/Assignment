@@ -21,7 +21,7 @@ easy to deploy
 
 ---
 
-## 💻 link of wesite
+## 💻 link of website
 https://assignment-ytao.onrender.com/
 
 
