@@ -7,15 +7,25 @@ This is a simple Flask-based web app that lets you upload a specific login time 
 ## 📁 Project Structure
 
 doctor-time-checker/
+
 ├── app.py # Main Flask app
+
 ├── doctors_data.xlsx # Original dataset
+
 ├── filtered_doctors.csv # (Optional) Pre-filtered file
+
 ├── requirements.txt # Python dependencies
+
 ├── Procfile # For deployment (Gunicorn)
+
 ├── templates/
+
 │ ├── index.html # Input form page
+
 │ └── results.html # Message page for no results
+
 └── static/
+
 └── styles.css # Custom CSS styling
 
 
